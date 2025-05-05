@@ -1,4 +1,5 @@
 ## GitHub repository link with merged branches ##
+https://github.com/Sindhu3113/Git_GitHub_Medium_Assignment
 
 
 ## Screenshots of merge conflict and resolution process ##
