@@ -29,11 +29,11 @@ staged changes->pre-commit->commit->pre-push->push->pre-recieve->repository
 2. commit-msg : runs after entering a commit msg
 3. pre-push : runs before pushing code to a repository
 
-git hooks are scripts stored in the .git/hooks directory of a Git repository.
+git hooks are scripts stored in the .git/hooks directory of a Git repository,
 hooks are stored in .git/hooks/
 This directory contains sample hook scripts, such as
-pre-commit.sample
-commit-msg.sample
+pre-commit.sample,
+commit-msg.sample,
 pre-push.sample
 
 ## Git Automation ## 
